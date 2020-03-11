@@ -10,3 +10,10 @@
 
 
 
+## 高速下载
+
+当前仓库的  `com.apple.amp.itmstransporter.zip` 同步更新至 https://www.lanzous.com/b0aqkmhpg
+
+
+
+
