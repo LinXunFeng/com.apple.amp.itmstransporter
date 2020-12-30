@@ -16,4 +16,15 @@
 
 
 
+## 记录
 
+更新 `com.apple.amp.itmstransporter` 的命令
+
+```shell
+/Applications/Xcode.app/Contents/SharedFrameworks/ContentDeliveryServices.framework/itms/bin/iTMSTransporter
+```
+
+1. 将`/User/username/Library/Caches/` 目录下的`com.apple.amp.itmstransporter` 删除掉
+2. 执行命令
+3. 使用  `Transporter` 上传 `ipa` 
+4. 取出纯净内容
